@@ -22,7 +22,7 @@ function  getValues(event){
     <p>Model: <span>${formData.model}</span></p>
     <p>Registration Number: <span>${formData.registration}</span></p>
     <p>Condition</p>: <span>${formData['condition']}</span></p>
-    <p>Value: r <span>${formData.value}</span></p>
+    <p>Value: R <span>${formData.value}</span></p>
 
     `
 
